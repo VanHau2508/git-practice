@@ -1,3 +1,3 @@
 # Git Practice
 
-Xin chào: Tôi là <Lê Văn Hậu>, MSSV <223348>.
+Đây là README được chỉnh sửa từ nhánh conflict-demo.

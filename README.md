@@ -1,3 +1,3 @@
 # Git Practice
 
-Xin chào: Tôi là <Lê Văn Hậu>, MSSV <223348>.
+Xin chào tôi là Lê Văn Hậu - đây là nội dung từ nhánh main
